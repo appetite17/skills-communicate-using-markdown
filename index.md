@@ -4,11 +4,9 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-```
-$ git init
-Se inicializó un repositorio Git vacío en /Users/skills/Projects/recipe-repository/.git/
-```
-
 ```  javascript
 var myVar = "¡Hola, mundo!";
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [x] This item is not complete
