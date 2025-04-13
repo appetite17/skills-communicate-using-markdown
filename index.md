@@ -4,4 +4,11 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-var myVar = "Hello, world!";
+```
+$ git init
+Se inicializó un repositorio Git vacío en /Users/skills/Projects/recipe-repository/.git/
+```
+
+```  javascript
+var myVar = "¡Hola, mundo!";
+```
